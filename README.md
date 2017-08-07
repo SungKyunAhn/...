@@ -12,10 +12,11 @@
 4. 프로젝트 개요 : 한국전력공사 고압 원격검침시스템에 따른 차세대 통합 시스템 S/W 개발 및 유지보수
 
 5. 사용 기술 
-* Main UI CORE Framework : Java 1.7, Spring 3.1.2
+* Language : Java 1.7
+* Main Framework : Spring 3.1.2
 * User Interface : ExtJS 4.1.3 MVC
 * DBMS 접속 : Hibernate 4.1.7
-* UI Framework : ExtJS 3.4, jQuery 1.7.2
+* UI Framework : ExtJS 4.1.3 MVC, jQuery 1.7.2
 * WAS : Tomcat
 
 6. 주요업무
@@ -29,5 +30,4 @@
 * 한국전력공사 차세대 원격검침 시스템(AMI) 개발
 * 웹 시스템 안정화 및 유지보수 사용자 응대 처리
 * 실시간 전력데이터 분석을 통한 통계 화면 개발
-
 * 차세대 고압원격검침시스템 MAIN PAGE
