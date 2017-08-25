@@ -17,14 +17,14 @@
  * User Interface : ExtJS 4.1.3 MVC
  * DBMS 접속 : Hibernate 4.1.7
  * UI Framework : ExtJS 4.1.3 MVC, jQuery 1.7.2
- - WAS : Tomcat 7
+ * WAS : Tomcat 7
 
 6. 주요업무
- 오라클 DB연동 Web 화면 S/W 개발
- AMI 원격검침시스템 운영
- Web 어플리케이션의 통계 화면 개발 및 데이터 분석
- 실시간 전력 데이터 처리 및 관리
- 시스템 안정화 및 유지보수 사용자 응대 처리
+ ** 오라클 DB연동 Web 화면 S/W 개발
+ ** AMI 원격검침시스템 운영
+ * Web 어플리케이션의 통계 화면 개발 및 데이터 분석
+ **실시간 전력 데이터 처리 및 관리
+ ***시스템 안정화 및 유지보수 사용자 응대 처리
 
 7. 산출물
  한국전력공사 차세대 원격검침 시스템(AMI) 개발
