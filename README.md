@@ -4,7 +4,7 @@
 한국전력공사 AMI SYSTEM
 
 
-#### [고압 원격검침시스템 기능개선 및 S/W 개발]
+## [고압 원격검침시스템 기능개선 및 S/W 개발]
 
 1. 협력 업체명 : 한국전력공사
 2. 규모 :
@@ -12,7 +12,7 @@
 4. 프로젝트 개요 : 한국전력공사 고압 원격검침시스템에 따른 차세대 통합 시스템 S/W 개발 및 유지보수
 
 5. 사용 기술 
-* Language : Java 1.7
+** Language : Java 1.7
 * Main Framework : Spring 3.1.2
 * User Interface : ExtJS 4.1.3 MVC
 * DBMS 접속 : Hibernate 4.1.7
