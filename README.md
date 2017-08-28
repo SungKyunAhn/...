@@ -32,3 +32,5 @@
  * 실시간 전력데이터 분석을 통한 통계 화면 개발
  * 차세대 고압원격검침시스템 MAIN PAGE
 
+![board list](https://dl.dropboxusercontent.com/u/31464666/blog/php-portfolio/board_v1_list.jpg)
+<p style="text-align:center">그림1. 게시글 목록</p>
